@@ -10,7 +10,4 @@ I am working at a website from a friend
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felixl2111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felixl2111&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FeliXL2111&theme=radical)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeliXL2111&theme=radical&count_private=true)](https://felixl2111.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeliXL2111&layout=compact&theme=radical&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://felixl2111.github.io))
 
