@@ -13,10 +13,10 @@ I am working at a website from a friend
 ![Languages](https://skillicons.dev/icons?i=flask,nextjs)
 
 ## Tools
-![Languages](https://skillicons.dev/icons?i=docker,gunicorn,mysql,nmap)
+![Languages](https://skillicons.dev/icons?i=docker,mysql,gunicorn,nmap)
 
 ## OS
-![Languages](https://skillicons.dev/icons?i=windwos,linux)
+![Languages](https://skillicons.dev/icons?i=windows,linux)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=felixbernard&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
