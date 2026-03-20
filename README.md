@@ -5,8 +5,8 @@ I am working at a website from a friend
 
 # 💻 Tech Stack:
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,java,kotlin,smalltalk,js,html,css)
-![smalltalk](https://img.shields.io/badge/smalltalk-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,java,kotlin,js,html,css)
+![smalltalk](https://img.shields.io/badge/smalltalk-%23E34F26.svg?style=for-the-badge)
 
 ### Frameworks
 ![Languages](https://skillicons.dev/icons?i=flask,nextjs)
