@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am an hobby developer
-I am working at a website from a friend
+I am a computer science student.
+I am working at hobby projects and share my knowledge
 
 
 # 💻 Tech Stack:
