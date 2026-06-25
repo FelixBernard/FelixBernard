@@ -5,14 +5,14 @@ I am working at hobby projects and share my knowledge
 
 # 💻 Tech Stack:
 ### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,java,kotlin,js,html,css)
+![Languages](https://skillicons.dev/icons?i=c,cpp,go,python,java,kotlin,js,ts,html,css)
 ![smalltalk](https://img.shields.io/badge/smalltalk-%23E34F26.svg?style=for-the-badge)
 
 ### Frameworks
 ![Languages](https://skillicons.dev/icons?i=flask,nextjs)
 
 ### Tools
-![Languages](https://skillicons.dev/icons?i=docker,mysql,gunicorn,nmap)
+![Languages](https://skillicons.dev/icons?i=docker,mysql,firebase,gunicorn,nmap)
 
 ### OS
 ![Languages](https://skillicons.dev/icons?i=windows,linux)
